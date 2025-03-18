@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on some of my projects
 - 📫 How to reach me: www.bsidenet.com
 - 😄 Pronouns: Ricardo
-- ⚡ Fun fact: Have to look for some facts about me. There is some...
+- ⚡ Fun fact: Have to look for some facts about me. There are some...
 
 <!---
 bsidenet/bsidenet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 - **Ferramentas de Desenvolvimento:** VS Code, Git, Docker
 - **Plataformas:** Linux, Windows
 -->
-## 📈 Estatísticas
+## 📈 Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=bsidenet&show_icons=true&theme=radical" alt="Estatísticas do GitHub de bsidenet">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsidenet&layout=compact&theme=radical" alt="Linguagens mais usadas por bsidenet">
