@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bsidenet
 - 👀 I’m interested in several things
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on some of my projects
-- 📫 How to reach me: [www.bsidenet.com](https://www.bsidenet.com){:target="_blank"}
+- 💞️ I’m looking for collaborate on some of my projects
+- 📫 How to reach me: [www.bsidenet.com](https://www.bsidenet.com)
 - 😄 Pronouns: Ricardo
 - ⚡ Fun fact: Have to look for some facts about me. There are some...
 
@@ -10,8 +10,8 @@
 bsidenet/bsidenet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![GitHub followers](https://img.shields.io/github/followers/bsidenet?style=social){:target="_blank"}
-![GitHub stars](https://img.shields.io/github/stars/bsidenet?style=social){:target="_blank"}
+![GitHub followers](https://img.shields.io/github/followers/bsidenet?style=social)
+![GitHub stars](https://img.shields.io/github/stars/bsidenet?style=social)
 
 <!--
 ## 🔧 Tecnologias & Ferramentas
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api?username=bsidenet&show_icons=true&theme=radical" alt="GitHub stats of bsidenet">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsidenet&layout=compact&theme=radical" alt="Most used languages by bsidenet">
 
-- LinkedIn: [https://www.linkedin.com/in/ricardonunolopes/](https://www.linkedin.com/in/ricardonunolopes/){:target="_blank"}
+- LinkedIn: [https://www.linkedin.com/in/ricardonunolopes/](https://www.linkedin.com/in/ricardonunolopes/)
 - Email: [bsidenet@outlook.com](mailto:bsidenet@outlook.com)
 <!--
 ## 💬 Fale comigo
